@@ -1,3 +1,5 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AVM4D/Destroying-GNFOS)
+
 # 🌌 Destroying GNFOS: A Galactic Showdown
 
 Welcome, brave pilot!  
@@ -108,6 +110,6 @@ DestroyingGNFOS_Playable/
 
 ## 📦 Playable Build
 
-> A pre-packaged ZIP build with all files will be available soon in the **[Releases](https://github.com/AVM4D/Destroying-GNFOS/releases)** section.
+> A pre-packaged ZIP build with all files is available in the **[Releases](https://github.com/AVM4D/Destroying-GNFOS/releases)** section.
 
 Stay tuned, and enjoy saving the galaxy!
